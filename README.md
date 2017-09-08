@@ -3,26 +3,20 @@
 	filemode = false
 	bare = fallrefupdates = true
 	symlinks = false
-	ignorecase = true
-[2remote "origin"]
-[4branch "skye1"]
+	igno]
 	remote = origin
 	merge = refs/alse
 	logallrefupdates = true
 	symlinks = false
 	ignorecase = true
 [2remote "origin"]
-[4branch "skye1"]
-	remote = origin
-	merge = refs/heads/skye1
+[4branch "srefs/heads/skye1
 
 ryr8nv487hn5g4 28vh527 h5p9247 h5742 h82f4uh iwehr u23h h
 	url = git@gitlrefupdates = true
 	symlinks = false
 	ignorecase = true
 [2remote "origin"]
-[4branch "skye1"]hub.com:THWU/gitFlowPractice.git
-	fetch = +refs/heads/*:refs/remotes/origin/*
-[3branch "master"]
+[4branch "sky
 	remote = origin
 	merge = refs/heads/master
